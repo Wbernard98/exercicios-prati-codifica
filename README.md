@@ -1,5 +1,10 @@
 # exercicios-+prati-codifica
 Exercícios que contemplam as operações fundamentais, estruturas de controle condicional e de repetição.
+
+##Existe duas pastas com os arquivos das atividades javascript , uma delas comtempla arquivos da atividades individuais
+#Exemplo pasta exercicios1a15, esta os individuais.
+#Exemplo2 pasta Lista_de_exercicios, esta um arquivo só mais com todas atividades de 1 a 15 comentadas. 
+
 # Executando Programas JavaScript (Exercícios 1-15) no VS Code
 
 Este guia fornece os códigos JavaScript para os exercícios listados e assume que você já tem o VS Code instalado, o Node.js instalado e a biblioteca `prompt-sync` instalada (caso contrário, siga as instruções abaixo para configurá-los).
